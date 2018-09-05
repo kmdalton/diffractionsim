@@ -1,0 +1,6 @@
+#Structure factor amplitudes can be calculated with phenix.fmodel (https://www.phenix-online.org/). If you're playing along at home, the way to generate these data is:
+
+#Surprise! This is a shell script
+phenix.fmodel 1ubq.pdb high_resolution=1.5 format=cns label=FOBS type=real
+
+#CNS (https://cns-online.org/) file format is the simplest plain text format that Phenix supports
