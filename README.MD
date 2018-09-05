@@ -9,6 +9,7 @@ It is recommended to use the Anaconda python distribuation with this library. As
 - Pandas
 - Numpy
 - Matplotlib
+With those prerequisites met, all you should have to do is add this directory to your PYTHONPATH variable. 
 
 Additionally, it is a good idea to have Phenix installed for calculating structure factor amplitudes. 
 
