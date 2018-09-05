@@ -1,11 +1,11 @@
 # Python Module for Simulating Crystallographic Rotation Series
 
-This is a very simple module for seleting reflections that intersect the reflecting sphere at a given crystal orientation. 
+This is a very simple module for selecting reflections that intersect the reflecting sphere at a given crystal orientation. 
 
 
 # Installation
 
-It is recommended to use the Anaconda python distribuation with this library. Aside from standard libraries the only prerequisites for running this code are 
+It is recommended to use the Anaconda python distribution with this library. Aside from standard libraries, the only prerequisites for running this code are 
 - Pandas
 - Numpy
 - Matplotlib
